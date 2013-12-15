@@ -1,0 +1,187 @@
+[Config]
+Relative path=1
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+FileFormat=0
+[Project tree]
+MultiplicacionXCSProject
+	+Multiplicasion_X_CS
+		-data
+			-images
+				-src
+					data\images\src\modificando 0.png
+					data\images\src\modificando 1.png
+					data\images\src\modificando 2.png
+					data\images\src\modificando 3.png
+					data\images\src\modificando 4.png
+					data\images\src\modificando 5.png
+					data\images\src\modificando 6.png
+					data\images\src\modificando 7.png
+					data\images\src\modificando 8.png
+					data\images\src\modificando 9.png
+					data\images\src\modificando About.png
+					data\images\src\modificando acercaDe.png
+					data\images\src\modificando AcercaDeTitle.png
+					data\images\src\modificando ayuda.png
+					data\images\src\modificando AyudaTitle.png
+					data\images\src\modificando continuar.png
+					data\images\src\modificando HLine.png
+					data\images\src\modificando hoja.png
+					data\images\src\modificando menu.png
+					data\images\src\modificando menuTitle.png
+					data\images\src\modificando multiplicacion_facil.png
+					data\images\src\modificando nuevo.png
+					data\images\src\modificando op_por.png
+					data\images\src\modificando Regresar.png
+					data\images\src\modificando SacercaDe.png
+					data\images\src\modificando salir.png
+					data\images\src\modificando Sayuda.png
+					data\images\src\modificando Scontinuar.png
+					data\images\src\modificando Snuevo.png
+					data\images\src\modificando Ssalir.png
+					data\images\src\Modificando tAyuda.png
+					data\images\src\modificando trans.png
+					data\images\src\modificando vacio.png
+					data\images\src\modificando VLine.png
+					data\images\src\Thumbs.db
+				data\images\About.png
+				data\images\acercaDe.png
+				data\images\AcercaDeTitle.png
+				data\images\ayuda.png
+				data\images\AyudaTitle.png
+				data\images\bindData.java
+				data\images\continuar.png
+				data\images\data
+				data\images\HLine.png
+				data\images\menu.png
+				data\images\menuTitle.png
+				data\images\multiplicacion_facil.png
+				data\images\n0.png
+				data\images\n1.png
+				data\images\n2.png
+				data\images\n3.png
+				data\images\n4.png
+				data\images\n5.png
+				data\images\n6.png
+				data\images\n7.png
+				data\images\n8.png
+				data\images\n9.png
+				data\images\nuevo.png
+				data\images\op_por.png
+				data\images\Regresar.png
+				data\images\SacercaDe.png
+				data\images\salir.png
+				data\images\Sayuda.png
+				data\images\Scontinuar.png
+				data\images\Snuevo.png
+				data\images\Ssalir.png
+				data\images\tAyuda.png
+				data\images\trans.png
+				data\images\vacio.png
+				data\images\VLine.png
+			data\crayons.zip
+			data\manif.inf
+		-MXCS
+			-debug
+				MXCS\debug\MXCS.exe
+				MXCS\debug\MXCS.ilk
+				MXCS\debug\MXCS.pdb
+			-MXCS
+				-Debug
+					MXCS\MXCS\Debug\app.res
+					MXCS\MXCS\Debug\AssemblyInfo.obj
+					MXCS\MXCS\Debug\BuildLog.htm
+					MXCS\MXCS\Debug\mt.dep
+					MXCS\MXCS\Debug\MXCS.exe.intermediate.manifest
+					MXCS\MXCS\Debug\MXCS.Form1.resources
+					MXCS\MXCS\Debug\MXCS.obj
+					MXCS\MXCS\Debug\MXCS.pch
+					MXCS\MXCS\Debug\stdafx.obj
+					MXCS\MXCS\Debug\vc80.idb
+					MXCS\MXCS\Debug\vc80.pdb
+				MXCS\MXCS\app.ico
+				MXCS\MXCS\app.rc
+				MXCS\MXCS\AssemblyInfo.cpp
+				MXCS\MXCS\Form1.h
+				MXCS\MXCS\Form1.resx
+				MXCS\MXCS\MXCS.cpp
+				MXCS\MXCS\MXCS.vcproj
+				MXCS\MXCS\MXCS.vcproj.Salvador-PC.Salvador.user
+				MXCS\MXCS\ReadMe.txt
+				MXCS\MXCS\resource.h
+				MXCS\MXCS\stdafx.cpp
+				MXCS\MXCS\stdafx.h
+			MXCS\MXCS.ncb
+			MXCS\MXCS.sln
+			MXCS\MXCS.suo
+		-release
+			release\MultiplicacionXCS.jar
+		+source
+			source\canvas.java
+			source\Frame.java
+			source\IMAGES.java
+			source\indice.java
+			source\Main.java
+			source\Panel.zip
+			source\STATE.java
+		+tools
+			+bindData
+				tools\bindData\About.png
+				tools\bindData\bindData.class
+				tools\bindData\bindData.java
+				tools\bindData\data
+				tools\bindData\indice.java
+				tools\bindData\multiplicacion_facil.png
+			tools\obfuscate.pro
+			tools\proguard.jar
+			tools\proguard.map
+			tools\proguard4.1.zip
+		build.cmd
+		build.sh
+		config.cmd
+		createVirtualX.bat
+		MultiplicacionXCSProject.ppr
+		MXCS.exe
+		MXCS2.exe
+		run.cmd
+		run.sh
+[Open project files]
+0=source\IMAGES.java
+1=config.cmd
+2=source\canvas.java
+3=build.cmd
+4=tools\bindData\bindData.java
+5=source\Frame.java
+6=source\indice.java
+[Selected Project Files]
+Main=
+Selected=build.cmd
+[source\IMAGES.java]
+TopLine=174
+Caret=18,204
+Mark1=5,64
+Mark2=6,203
+[config.cmd]
+TopLine=1
+Caret=19,1
+[source\canvas.java]
+TopLine=1
+Caret=22,1
+Mark1=22,1044
+[build.cmd]
+TopLine=15
+Caret=18,47
+[tools\bindData\bindData.java]
+TopLine=1
+Caret=4,20
+[source\Frame.java]
+TopLine=32
+Caret=5,43
+[source\indice.java]
+TopLine=30
+Caret=1,67
